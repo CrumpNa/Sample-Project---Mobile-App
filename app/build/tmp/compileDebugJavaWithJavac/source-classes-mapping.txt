@@ -1,0 +1,4 @@
+com/example/simpletodo/BuildConfig.java
+ com.example.simpletodo.BuildConfig
+com/example/simpletodo/MainActivity.java
+ com.example.simpletodo.MainActivity
